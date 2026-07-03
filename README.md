@@ -1,4 +1,4 @@
-
+<h1 align="center">Python Fundamentals Exercises</h1>
 
 <p align="center">
 Repositório com exercícios práticos de Python organizados por temas de lógica, matemática, estruturas de dados e pequenos sistemas.
